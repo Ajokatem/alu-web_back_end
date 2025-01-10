@@ -16,3 +16,4 @@ def safe_first_element(lst: Sequence[Any]) -> Union[Any, None]:
     else:
         return None
     
+    
