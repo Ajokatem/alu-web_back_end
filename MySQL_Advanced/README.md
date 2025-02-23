@@ -1,6 +1,6 @@
 # MySQL advanced
 
-## Resources
+## Resources.
 ### Read or watch:
 
 - [MySQL cheatsheet](https://intranet.aluswe.com/rltoken/XCHG-pgtifYRSw8ILB6DEw)
