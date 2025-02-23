@@ -1,6 +1,6 @@
 # NoSQL
 
-## Resources
+## Resources.
 ### Read or watch:
 
 - [NoSQL Databases Explained](https://intranet.aluswe.com/rltoken/0HR2bZ3XFJzkttuEVF5Rug)
